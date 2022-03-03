@@ -35,4 +35,5 @@ osupull {SongsDir} extracted_songs --rename bn
 git clone https://github.com/algames2019/osupull.git
 cd osupull
 sudo cp main.py /usr/bin/osupull
+sudo chmod +x /usr/bin/osupull
 ```
