@@ -32,7 +32,7 @@ osupull {SongsDir} extracted_songs --rename bn
 > Note: This will not cover how to install this on Windows, only Linux
 
 ``` sh
-git clone https://github.com/algames2019/osupull.git
+git clone https://github.com/nanashi-1/osupull.git
 cd osupull
 sudo cp main.py /usr/bin/osupull
 sudo chmod +x /usr/bin/osupull
